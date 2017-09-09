@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main3(void)
+int fathm_ft_main(void)
 {
 	int feet, fathoms;
 	fathoms = 2;

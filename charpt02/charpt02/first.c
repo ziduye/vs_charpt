@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main2(void)
+int first_main(void)
 {
 	int num;
 	num = 1;
